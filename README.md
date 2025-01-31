@@ -7,7 +7,6 @@ Projeto clone da landing page do Spotify feito na Imersão Front-end da Alura.
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
 
 ## Funcionalidades
 - Layout responsivo
