@@ -1,2 +1,19 @@
 # Imersao-front-end-alura
-Projeto clone da landing page do spotify feito na imersão-front-end da alura
+
+# Projeto Clone da Landing Page do Spotify
+
+Projeto clone da landing page do Spotify feito na Imersão Front-end da Alura.
+
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## Funcionalidades
+- Layout responsivo
+- Estilização semelhante à página original
+- Interatividade básica
+
+## Aprendizados
+- Desenvolvimento de uma interface web
+- Manipulação de elementos com JavaScript
