@@ -15,4 +15,4 @@ Projeto clone da landing page do Spotify feito na Imersão Front-end da Alura.
 
 ## Aprendizados
 - Desenvolvimento de uma interface web
-- Manipulação de elementos com JavaScript
+- Noções basicas de javascript
